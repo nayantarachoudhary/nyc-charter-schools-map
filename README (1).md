@@ -2,7 +2,7 @@
 
 An interactive map of New York City charter schools with a Success Academy view and a growth timeline. It is built only from public data and runs as a single static page, with no server.
 
-**Live page:** [add your GitHub Pages link here]
+**Live page:** [[[add your GitHub Pages link here]](https://nayantarachoudhary.github.io/nyc-charter-schools-map/)](https://nayantarachoudhary.github.io/nyc-charter-schools-map/)
 
 ## What it does
 
